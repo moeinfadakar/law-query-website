@@ -14,7 +14,7 @@ Are you studying law? Are you even interested in law? This is a test and a tough
 
 <h3>Goals  🎯</h3>
 
-<p>Finding Taxi`s Eazy  & fast</p>
+<p>test skill of law student`s </p>
 
 <h3>Tech 🚀</h3>
 
@@ -28,9 +28,12 @@ Are you studying law? Are you even interested in law? This is a test and a tough
 
 
 <h3>See Some image(s) 📸</h3>
-<a>
-<img  src="screen.png" >
-</a>
+
+<img  src="screenshots/result.png" >
+<img  src="screenshots/addQuestions.png">
+<img  src="screenshots/home-quizer.png">
+<img  src="screenshots/addQuestions.png">
+
 
 
 <h3>Developer(s) ⚡ </h3>
