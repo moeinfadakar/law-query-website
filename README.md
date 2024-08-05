@@ -1,13 +1,15 @@
-<h2>Mashhad Uber website  🏚 </h2>
+<h2>law-query-website  🏚 </h2>
 
 <p>
-In today's world, speed is everything. This web application uses Google Maps to arrange a vehicle for you wherever you are, keeping you away from the hassle of finding a taxi.
+Are you studying law? Are you even interested in law? This is a test and a tough challenge that will help you improve your skills!
 </p>
 
 <h3>Features 🔥</h3>
 
-* Google map API  ✔
-* Pricing method  ✔
+* MVC ✔
+* Check Response`s ✔
+* Showing result ✔
+* Add|Remove|Edit question by Admin ✔
 * Well-designed User Interface & User Experience  ✔
 
 <h3>Goals  🎯</h3>
