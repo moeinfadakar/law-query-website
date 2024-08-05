@@ -1,4 +1,4 @@
-<h2>law-query-website  🏚 </h2>
+<h2>law-quizzer-website  🏚 </h2>
 
 <p>
 Are you studying law? Are you even interested in law? This is a test and a tough challenge that will help you improve your skills!
